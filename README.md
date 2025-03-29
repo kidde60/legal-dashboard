@@ -4,6 +4,10 @@
 
 The **Legal Practice Management Dashboard** is a responsive web application designed to help legal firms manage their cases, documents, and billable hours. Built using **TypeScript, Redux Toolkit, and Tailwind CSS**, this dashboard offers role-based access control and a simulated API for data interactions.
 
+## Time spent(days)
+
+> 1 day
+
 ## Features
 
 ### Dashboard UI
@@ -37,7 +41,7 @@ Ensure you have Node.js installed (recommended version 18 or later).
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/legal-dashboard.git
+git clone https://github.com/kidde60/legal-dashboard.git
 cd legal-dashboard
 
 # Install dependencies
@@ -113,7 +117,7 @@ npm run test
 
 ## Repository
 
-Find the code on GitHub: [GitHub Repository](https://github.com/your-repo/legal-dashboard)
+Find the code on GitHub: [GitHub Repository](https://github.com/kidde60/legal-dashboard)
 
 ---
 
