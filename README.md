@@ -1,4 +1,4 @@
-# Legal Practice Management Dashboard
+### Legal Practice Management Dashboard
 
 ## Project Overview
 
